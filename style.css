@@ -1,0 +1,37 @@
+
+:root{ 
+    --varColor:#3A3539;
+    --varLetra:white;
+    }
+    
+
+body{
+    background: black; 
+    color: white;
+    margin: 0;
+    overflow-x: hidden; 
+    
+}
+
+#image{
+    max-width: 100%;
+    width: 100px;
+    margin-left: 25px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.card{
+    display: inline-block;
+}
+
+.row{
+    margin-left: 50px;
+}
+
+h5{
+    text-align: center;
+}
+
